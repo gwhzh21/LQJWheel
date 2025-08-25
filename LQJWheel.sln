@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LQJWheel.GateWay", "LQJWheel.GateWay\LQJWheel.GateWay.csproj", "{89B2C472-4944-4329-8F94-99FC206CECEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B2C472-4944-4329-8F94-99FC206CECEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B2C472-4944-4329-8F94-99FC206CECEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B2C472-4944-4329-8F94-99FC206CECEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B2C472-4944-4329-8F94-99FC206CECEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC5C7A7-35BF-4210-8BA3-ACE21FC57F87}
+	EndGlobalSection
+EndGlobal
